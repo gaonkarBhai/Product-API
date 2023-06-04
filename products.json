@@ -1,0 +1,211 @@
+[
+  {
+    "name": "Nike Air Max Shoes",
+    "featured": false,
+    "price": 6999,
+    "rating": 4.2,
+    "description": "Comfortable and stylish shoes for everyday wear",
+    "company": "Nike"
+  },
+  {
+    "name": "Apple iPhone 12",
+    "featured": false,
+    "price": 79999,
+    "rating": 4.8,
+    "description": "A high-performance smartphone with advanced features",
+    "company": "Apple"
+  },
+  {
+    "name": "Samsung Galaxy Watch",
+    "featured": false,
+    "price": 21999,
+    "rating": 4.6,
+    "description": "A smartwatch that tracks your fitness and connects with your phone",
+    "company": "Samsung"
+  },
+  {
+    "name": "Sony Noise Cancelling Headphones",
+    "featured": false,
+    "price": 14999,
+    "rating": 4.4,
+    "description": "High-quality headphones with excellent noise cancellation",
+    "company": "Sony"
+  },
+  {
+    "name": "Puma Running Shoes",
+    "featured": true,
+    "price": 4999,
+    "rating": 4.3,
+    "description": "Ideal shoes for running and sports activities",
+    "company": "Puma"
+  },
+  {
+    "name": "Under Armour Sports T-Shirt",
+    "featured": true,
+    "price": 1999,
+    "rating": 4.5,
+    "description": "A comfortable and breathable t-shirt for sports and workouts",
+    "company": "Under Armour"
+  },
+  {
+    "name": "Zara Men's Slim Fit Jeans",
+    "featured": false,
+    "price": 2499,
+    "rating": 4.1,
+    "description": "Stylish and trendy jeans for men",
+    "company": "Zara"
+  },
+  {
+    "name": "H&M Women's Casual Dress",
+    "featured": false,
+    "price": 1499,
+    "rating": 4.0,
+    "description": "A comfortable and chic dress for casual occasions",
+    "company": "H&M"
+  },
+  {
+    "name": "Gucci Leather Wallet",
+    "featured": true,
+    "price": 19999,
+    "rating": 4.7,
+    "description": "A luxurious leather wallet with multiple compartments",
+    "company": "Gucci"
+  },
+  {
+    "name": "Lululemon Yoga Mat",
+    "featured": false,
+    "price": 3999,
+    "rating": 4.5,
+    "description": "A high-quality yoga mat for your workout sessions",
+    "company": "Lululemon"
+  },
+  {
+    "name": "Adidas Football",
+    "featured": true,
+    "price": 2499,
+    "rating": 4.6,
+    "description": "A durable football for professional and recreational use",
+    "company": "Adidas"
+  },
+  {
+    "name": "Reebok Gym Bag",
+    "featured": false,
+    "price": 1999,
+    "rating": 4.3,
+    "description": "A spacious and sturdy gym bag for your fitness gear",
+    "company": "Reebok"
+  },
+  {
+    "name": "Louis Vuitton Designer Handbag",
+        "featured": true,
+    "price": 59999,
+    "rating": 4.9,
+    "description": "A luxurious designer handbag for a stylish look",
+    "company": "Louis Vuitton"
+  },
+  {
+    "name": "Rolex Men's Watch",
+    "featured": false,
+    "price": 899999,
+    "rating": 4.7,
+    "description": "An elegant and timeless watch for men",
+    "company": "Rolex"
+  },
+  {
+    "name": "Canon DSLR Camera",
+    "featured": true,
+    "price": 49999,
+    "rating": 4.5,
+    "description": "A professional-grade camera for capturing high-quality photos and videos",
+    "company": "Canon"
+  },
+  {
+    "name": "Levi's Denim Jacket",
+    "featured": false,
+    "price": 3999,
+    "rating": 4.3,
+    "description": "A classic denim jacket for a stylish and casual look",
+    "company": "Levi's"
+  },
+  {
+    "name": "Vans Skate Shoes",
+    "featured": false,
+    "price": 3499,
+    "rating": 4.4,
+    "description": "Stylish and durable skate shoes for skateboarding enthusiasts",
+    "company": "Vans"
+  },
+  {
+    "name": "Converse Chuck Taylor Sneakers",
+    "featured": true,
+    "price": 2999,
+    "rating": 4.6,
+    "description": "Iconic and versatile sneakers for a casual and trendy look",
+    "company": "Converse"
+  },
+  {
+    "name": "Bose Wireless Bluetooth Speaker",
+    "featured": false,
+    "price": 14999,
+    "rating": 4.7,
+    "description": "A portable speaker with high-quality sound and wireless connectivity",
+    "company": "Bose"
+  },
+  {
+    "name": "Tiffany & Co. Silver Necklace",
+    "featured": true,
+    "price": 24999,
+    "rating": 4.8,
+    "description": "An exquisite silver necklace with a timeless design",
+    "company": "Tiffany & Co."
+  },
+  {
+    "name": "Urban Outfitters Graphic T-Shirt",
+    "featured": false,
+    "price": 999,
+    "rating": 4.2,
+    "description": "A trendy and unique graphic t-shirt for a cool and casual look",
+    "company": "Urban Outfitters"
+  },
+  {
+    "name": "Fossil Men's Watch",
+    "featured": true,
+    "price": 8999,
+    "rating": 4.4,
+    "description": "A stylish and sophisticated watch for men",
+    "company": "Fossil"
+  },
+  {
+    "name": "Lacoste Polo Shirt",
+    "featured": false,
+    "price": 2999,
+    "rating": 4.5,
+    "description": "A classic polo shirt with the iconic Lacoste crocodile logo",
+    "company": "Lacoste"
+  },
+  {
+    "name": "Forever 21 Women's Jumpsuit",
+    "featured": true,
+    "price": 1999,
+    "rating": 4.1,
+    "description": "A fashionable jumpsuit for women with a trendy design",
+    "company": "Forever 21"
+  },
+  {
+    "name": "Tommy Hilfiger Men's Wallet",
+    "featured": false,
+    "price": 2999,
+    "rating": 4.3,
+    "description": "A stylish and functional wallet for men",
+    "company": "Tommy Hilfiger"
+  },
+  {
+    "name": "Ray-Ban Aviator Sunglasses",
+    "featured": true,
+    "price": 7999,
+    "rating": 4.7,
+    "description": "Classic and iconic aviator sunglasses for a fashionable look",
+    "company": "Ray-Ban"
+  }
+]
+
