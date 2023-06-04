@@ -27,9 +27,12 @@ const getAllProducts = async (req, res) => {
     const skip = (page - 1) * limit;
     data = data.skip(skip).limit(limit);
     const products = await data;
+
     return res.status(200).json({ products, nbHits: products.length });
+
   } catch (error) {
     console.log(error);
+    return res.status(500).json({'message':"server error" });
   }
 };
 module.exports = { getAllProducts };

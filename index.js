@@ -11,7 +11,7 @@ app.use(express.json());
 app.use("/api/v1/product", router);
 
 app.get("/", (req, res) => {
-  res.json({ message: "beta version" });
+  res.status(200).json({ message: "Happy coding" });
 });
 
 const start = () => {
