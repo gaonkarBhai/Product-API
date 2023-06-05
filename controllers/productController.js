@@ -6,6 +6,7 @@ const getAllProducts = async (req, res) => {
       req.query;
     const queryObj = {};
 
+    // query
     if (featured) queryObj.featured = featured === "true" ? true : false;
     if (rating) queryObj.rating = Number(rating);
     if (company) queryObj.company = company;

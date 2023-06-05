@@ -1,3 +1,5 @@
+// only for adding document to mongodb atlas
+
 require("dotenv").config();
 const connDB = require("./db/conn");
 const productModel = require('./models/productSchema')
