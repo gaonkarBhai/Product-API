@@ -1,4 +1,15 @@
 # Product-API
+
+## Installation and Run locally
+```bash
+  git clonehttps://github.com/gaonkarBhai/Product-API.git
+  cd Product-API
+```
+Run with npm
+```bash
+  npm i
+  npm start
+```
 ## Documentation
 Query and pagination example for a product database using Mongoose and Express.js.
 
@@ -38,18 +49,20 @@ Responce :
 ```
 <br>
 
->End point
+### End point
 Make a GET request to <br>
  https://product-api-o31k-5dkf6omqj-gaonkarbhai.vercel.app/api/v1/product <br>
 with the following query parameters:
->>*featured* : Set to "true" if you want to filter by featured products. <br>
->>*rating* : Set to a numeric value to filter by product rating.<br>
->>*company* : Set to a string value to filter by company name.<br>
->>*name* : Set to a string value to search for product names containing the provided value.<br>
->>*sort* : Set to a comma-separated string of field names to sort the results. Prefix a field name with - to sort in descending order.<br>
->>*fields*: Set to a comma-separated string of field names to select only specific fields in the results.<br>
->>*page*: Set to a numeric value to specify the page number.<br>
->>*limit* : Set to a numeric value to specify the number of results per page.<br>
->>
 
+
+| Parameter  | Description                                                     | Example         |
+|------------|-----------------------------------------------------------------|-----------------|
+| featured   | Filter by featured products.                                    | featured=true   |
+| rating     | Filter by product rating (numeric value).                        | rating=4        |
+| company    | Filter by company name (string value).                           | company=Apple   |
+| name       | Search for product names containing the provided value.          | name=iPhone     |
+| sort       | Sort the results by field names. Prefix with - for descending order. | sort=-price,name |
+| fields     | Select only specific fields in the results.                      | fields=name,price |
+| page       | Specify the page number for paginated results.                   | page=2          |
+| limit      | Specify the number of results per page.                          | limit=10        |
 
